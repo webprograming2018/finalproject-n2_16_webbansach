@@ -1,0 +1,27 @@
+*{}
+
+a#adanhmuc1:hover {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+
+a#adanhmuc:hover {
+    text-decoration: none;
+     cursor: pointer;
+}
+
+a#adanhmuc1 {
+    color: white;
+
+}
+
+
+li#danhmuccon:hover {
+    background-color: lightgray;
+    transition: 0.5s;
+     cursor: pointer;
+}
+ul#danhmuc {
+    margin-left: -15px;
+ }

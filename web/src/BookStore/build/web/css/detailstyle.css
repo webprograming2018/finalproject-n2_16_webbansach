@@ -1,0 +1,139 @@
+th{ 
+    background: rgba(0, 135, 255, 0.46);
+}
+.text-center{ 
+    text-align: center;
+}
+.trOnColor{ 
+    background: rgba(0, 121, 128, 0.23);
+}
+#loadding {color: red; font-size: 20px; font-weight: bold; text-align: center !important}
+.hidden {display: none}
+
+.ratings-star {
+    width: 24px;
+    height: 24px;
+    background: url('data:image/gif;base64,R0lGODlhGAAwAPf/AOXl5f+rHv+2T//15b+/v/+TVP+lGv/PT//HTf+gVP/z3/+lHP+hI//VS//PUP+hGfj4+Pv7+/f39/r6+vb29vLy8vn5+fT09P+8TvPz8/+vUv+rU/+zUf+4UP7+/v/DTv39/e3t7dDQ0P+iVP+nVPz8/O/v793d3c7OzsPDw97e3v/ATf/BTf+mVNzc3PX19cHBwf+xUMXFxerq6ufn5/+fVNXV1dnZ2ezs7O7u7tHR0fDw8PHx8f/FTP+jVc3NzeLi4tra2tfX1/+6Tebm5v+7Tf/fS/+qU//bxtPT0+Hh4f+2FMbGxv/MT//JS/97LN/f38nJyevr68zMzP/TSv/ZS7i4uOjo6P+bVf+lVf/OSv99Lv/LTP+AKv/CTsfHx//KTv/nwP/Nsv+0Jv+RQ//mvf+wOv/PTf+uYv+wMv+eHv/AT//Yqv/Xrf+tXP+mIP+ndf+odv/RTNvb2/9+K/+2Yenp6f/Ng//lSf/r3/+fWf92H/+2h/+uUf9oIv+lb7e3t/+5Ov+yUP+KR9TU1P9tKMDAwP+0Y/+cTv+8Yv+7VP/n2f/CnP+3T//uyv+8Qf/Zp//im/+2PP/HWePj4/+2Qv/59f+uQf+NUf/v1v+yHf+3SP/28P+gJP+nJP/Zvv/Ub/+SP/+ufv+AIv+9Uv/9/P+wLP/AJLGxsc/Pz/+hWP+nWP+9WP/qyf+lPv/sz//x6f/26v/27f9sJaysrP/NTf+hUv/Na//Ywf+ON/+RIf+pIf/u0P/CZf+xF/++TP+DMv+0ZP+ENf+tUf/hpf+pGf/Zof+rSP/z27y8vP+kXP+LP//l1f+bJP9uIv+jaf+jFv/z4v/57P+iVf+xIf/JTv+qFf/DYP+fYv+faP9zIP/+/P+cVf+9Pf/cq/+VT/+ALv/DQ/90J/+1i//Qtf+rLP+sKP/8+sLCwv+NSv+jGv+rT9bW1v+PM7W1tf+oVP/RS/9vLP+UQf/t4f/ZSeDg4P+EMv+HMP+nXP+0QP/Icv/WS/+rI/+eTP///////yH5BAEAAP8ALAAAAAAYADAAAAj/AP8JHEgwEihpBBMqTOhoyZJbCyMmnHQKjy9kEiXysmbEiCaIGRdeo1alCr1iCkImzAStARUq+wLoUylwQCtFu+Bp0SKHioEwKRW+utNr0wJ1D8zV4uLECZczph4YMJCPlT5v2/6NUVMu0AEHTaoh6EEWAQIwTRwc6Jam0wJi/yTx+7Dig10vLFisWJHXi126v8IFKPMvmhlPa4YUwcC4seMiQ4Y8emNs4IBLnUgJaNShs+fOjTZXYgApYaxjumII4sC6NesYMVw1Y7NQVr92fTTo3q172LpRbSR+2nNkg/Hjxo/ce5aRkbZ3JEi0mN4iOolQ6TLC2ZLFx4jv3kf4/8hiS9w5iZiWJahRY1WiRG7WJ5jmbFHEUvG+YVF1KFcXe13UgQ83WPghRkTzzKIHGvLQgQ0znPABDDjBKFPIOBEh8QQiTxSABEGwiLKFMGT8EZEl2RRATkR5xDEILjTFKOOMNNZYowtTQGDjPzicsMMUO6Lgjz8q8FBjCCoMCQEKNf5AwZD+BFHBjCYkCaUEOsT4ghQ3QADlkERcccFCOOiQxA1Q0JDDBF9CmcEMSgRhgwgqePAPIDOw2aYHfLY5ZAQmRCHEP1ZcIUEJUHoAAggllLCoB1CWYEEFXyjxTwUw0EABBBZE4OmnoFoAAQQ8iJDEQBnAQMSmE4Aa6qg8pKrCTkIvGALACxBMoOuuukoggQk/DKoQBTLYIYEFyCaLLAUVECLsQvW4IMGo1FIrgRRMSiTCCRD4SsG3FPgqQQgpZMQEDRBQcMG67G5KARMgSJRCCBdkYG8GFdx7gQQihBCRBzDkUEEFJlCiAwpz4DBwBTYEEdEOUVSwAwA/EDCDBDKkcEIIFbjwRURAoAOECMkAQdAFKchwgg1WRDQBKu7cEFEOBNACRUIBAQA7') no-repeat left bottom;
+    position: relative;
+    float: left;
+    cursor: pointer;
+}
+
+.ratings-full {
+    background-position: left 2px;
+}
+
+
+h3.title-book, h3.category {
+    font-size: 1.5rem;
+}
+h3.title-book{
+    color: #968b8b;
+}
+
+.detail {
+    border-top: 1px solid #e6e6e6;
+    padding-top: 2rem;
+}
+h4.author {
+    font-size: 1.2rem;
+}
+h4.author a {
+    color: #bf0000;
+}
+h2.detail-title {
+    font-family: "Trebuchet MS",Trebuchet,Arial,Helvetica,sans-serif;
+    font-style: normal;
+    font-size: 1.3rem;
+    color: #000;
+    padding: 0;
+    margin: 0 0 2rem;
+}
+
+.more-info h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 14px;
+    padding-top: 8px;
+    padding: 2px 0;
+}
+
+.more-info {
+    padding: 0 0 20px 0;
+}
+
+.col-md-6.stat-desc strong,.col-md-6.stat-desc span {
+    color: #797575;
+    font-size: 1.2rem;
+}
+.col-md-6.stat-desc span {
+    font-size: 0.8rem;
+}
+.more-info .col-md-4 {
+    border-right: 1px solid #ccc;
+}
+
+.more-info .col-md-4:last-child {
+    border: none;
+}
+
+.stat-icon i {
+    font-size: 50px;
+}
+
+.pricing-details {
+    display: block;
+    visibility: visible;
+    font-size: 15px;
+}
+
+.pricing-details .box {
+    box-shadow: 0 0 7px #e6e6e6;
+    padding: 2rem 1.5rem;
+    width: 100%;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    margin: 3rem 0;
+}
+
+h2.pricing-title {
+    font-size: 20px;
+    font-family: "Trebuchet MS",Trebuchet,Arial,Helvetica,sans-serif;
+    line-height: 2.4rem;
+    font-style: normal;
+    color: #0d0d0d;
+    padding: 0;
+    margin: 0 0 20px;
+}
+
+.row.pricing-figures {
+    font-size: 15px;
+}
+
+.carousel-inner .col-xs-4.col-sm-4.col-md-4 {
+    display: inline-block;
+    margin-left: -10px;
+}
+
+.carousel-inner .col-md-4 img {
+    width: 100%;
+    height: auto;
+}
+
+body .carousel-control-prev-icon,
+body .carousel-indicators li,
+body .carousel-control-next-icon {
+    background-color: #000;
+}
+
+span.carousel-control-prev-icon {
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+}
+
+span.carousel-control-next-icon {
+    position: relative;
+    bottom: 40px;
+}

@@ -1,0 +1,28 @@
+@media only screen and (max-width: 767px){
+	.old-icon{
+		display: none!important;
+	}
+	.new-icon{
+		display: block!important;
+	}
+}
+@media only screen and (max-width: 510px){
+	#new-icon-1{
+		display: none!important;
+	}
+}
+@media only screen and (max-width: 480px){
+	#new-icon-2{
+		display: none!important;
+	}
+}
+@media only screen and (max-width: 450px){
+	#new-icon-3{
+		display: none!important;
+	}
+}
+@media only screen and (max-width: 420px){
+	#new-icon-4{
+		display: none!important;
+	}
+}
