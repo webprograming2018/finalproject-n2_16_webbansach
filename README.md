@@ -11,22 +11,33 @@ Thành viên:
 
 Nội dung
 I. Giới thiệu sơ lược chủ đề
+
 a. Mục tiêu
-- Xây dựng được web bán sách online cơ bản hoàn thành nghiệp vụ bán hàng như xem, mua sách, đặt đơn hàng và thanh toán. 
-- Ngoài ra còn sử dụng một số kĩ thuật để trang web thân thiện hơn với người dùng như search sản phẩm không cần load lại trang, tự động load thêm sản phẩm khi hết page,...
+- Xây dựng được web bán sách online cơ bản hoàn thành nghiệp vụ bán hàng như xem, 
+mua sách, đặt đơn hàng và thanh toán. 
+- Ngoài ra còn sử dụng một số kĩ thuật để trang web thân thiện hơn với người dùng 
+như search sản phẩm không cần load lại trang, tự động load thêm sản phẩm khi hết page,...
+
 b. Kết quả đã đạt được
-- Trang web đã cơ bản hoàn thành được những nghiệp vụ bán hàng cần thiết, áp dụng được những kĩ thuật như ajax, jquery giúp trang web thân thiện với người dùng.
+- Trang web đã cơ bản hoàn thành được những nghiệp vụ bán hàng cần thiết, áp dụng được 
+những kĩ thuật như ajax, jquery giúp trang web thân thiện với người dùng.
+
 c. Hạn chế, hướng phát triển
-- Trang web còn nhiều hạn chế, mới chỉ dừng lại ở mức cơ bản, chưa chi tiết, chưa hoàn thành hết các chức năng có mặt trên giao diện, giao diện chưa thực sự tối ưu
+- Trang web còn nhiều hạn chế, mới chỉ dừng lại ở mức cơ bản, chưa chi tiết, 
+chưa hoàn thành hết các chức năng có mặt trên giao diện, giao diện chưa thực sự tối ưu
 - Chưa bắt chi tiết các ngoại lệ trong quá trình xử lý dẫn đến một số trường hợp có thể gây ra lỗi.
 II. Phân công công việc
-STT	Họ tên	Các nội dung thực hiện	Đánh giá
-1.	Hoàng Văn Hiệp	- Xây dựng phần backend: kết nối database, xây dựng model, dao, servlet, xử lý jsp cho các đối tượng lên giao diện. 
-- Xử lý một số chức năng liên quan đến ajax: search autocomplete, loadmore,...	Đã hoàn thành đầy đủ
-2.	Nguyễn Thành Long	- Xây dựng, thiết kế phần giao diện cho trang web sử dụng html, css, framework bootstrap
-	Đã hoàn thành đầy đủ
-3.	Trịnh Văn Lực	- Tìm hình ảnh, xây dựng database, nghiên cứu giao diện
-	Đã hoàn thành đầy đủ
+1.	Hoàng Văn Hiệp	
+- Xây dựng phần backend: kết nối database, xây dựng model, dao, 
+servlet, xử lý jsp cho các đối tượng lên giao diện. 
+- Xử lý một số chức năng liên quan đến ajax: search autocomplete, loadmore,...	
+Đã hoàn thành đầy đủ
+2.	Nguyễn Thành Long	
+- Xây dựng, thiết kế phần giao diện cho trang web sử dụng html, css, framework bootstrap
+Đã hoàn thành đầy đủ
+3.	Trịnh Văn Lực	
+- Tìm hình ảnh, xây dựng database, nghiên cứu giao diện
+Đã hoàn thành đầy đủ
 
 III. Quá trình thực hiện:
 1.	1.0
